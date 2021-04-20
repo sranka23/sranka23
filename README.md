@@ -2,7 +2,7 @@
 
 | Domain | Frontend Engineering |
 | ------- | --------|
-| **_Key skills_** | |
+| #### **KEY SKILLS** | |
 Technical skills | HTML, CSS3.0, JavaScript (ES6), ReactJS, jQuery
 Data Visualization | Highcharts, Google charts, Google maps, d3.js
 Automation testing | WebdriverIO, TestCafe
