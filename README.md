@@ -1,4 +1,4 @@
-## *Shourya Ranka*
+# Shourya Ranka
 
 | Key Skills | |
 | :-- | :-- |
