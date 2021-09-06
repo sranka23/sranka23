@@ -6,10 +6,10 @@
 | Data Visualization | Highcharts, Google charts, Google maps, d3.js |
 | Automation testing | WebdriverIO, TestCafe |
 | Application Monitoring & Performance | NewRelic |
-| Non functional skills | Web accessibility, Performance, SEO, Cross-browser support |
+| Non functional skills | Web accessibility, Performance, SEO, Cross-browser support, Adaptive & Responsive design|
 | Analytics | Adobe, Google Analytics, Hotjar |
 | Version control | Git, BitBucket, SVN |
-| A/V Integrations | JWPlayer, YouTube, BrightCove |
+| A/V Integrations | JWPlayer, YouTube, BrightCove, KPoint |
 | Design Systems | Material, Lightening, Custom DS (Storybook) |
 
  
