@@ -11,9 +11,6 @@
 | Version control | Git, BitBucket, SVN |
 | A/V Integrations | JWPlayer, YouTube, BrightCove |
 | Design Systems | Material, Lightning |
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sranka23"  style="margin-right: 8px; vertical-align: middle;" />
 
- <img src="https://github-readme-stats.vercel.app/api?username=sranka23&show_icons=true&line_height=27&count_private=true" alt="Shourya Ranka's GitHub Stats" style="margin-right: 8px; vertical-align: middle;" />
  
 [Read more about me here >](https://flowcv.me/shourya-ranka)
