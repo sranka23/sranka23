@@ -10,7 +10,7 @@
 | Analytics | Adobe, Google Analytics, Hotjar |
 | Version control | Git, BitBucket, SVN |
 | A/V Integrations | JWPlayer, YouTube, BrightCove |
-| Design Systems | Material, Lightning |
+| Design Systems | Material, Lightening, Custom DS (Storybook) |
 
  
 [Read more about me here >](https://flowcv.me/shourya-ranka)
