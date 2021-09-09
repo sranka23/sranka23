@@ -12,5 +12,7 @@
 | A/V Integrations | JWPlayer, YouTube, BrightCove, KPoint |
 | Design Systems | Material, Lightening, Custom DS (Storybook) |
 
- 
+
+For some useful code snippets / utilities, have a look @ https://gist.github.com/sranka23 
+
 [Read more about me here >](https://flowcv.me/shourya-ranka)
