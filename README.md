@@ -2,7 +2,7 @@
 
 | Key Skills | |
 | :-- | :-- |
-| Technical skills | HTML, CSS3.0, JavaScript (ES6), ReactJS|Redux, jQuery |
+| Technical skills | HTML, CSS3.0, JavaScript (ES6), ReactJS, Redux, jQuery |
 | Data Visualization | Highcharts, Google charts, Google maps, d3.js |
 | Automation testing | WebdriverIO, TestCafe |
 | Application Monitoring & Performance | NewRelic |
